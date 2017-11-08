@@ -1,0 +1,1 @@
+In this file I would have put in the code to delete articles that were saved.

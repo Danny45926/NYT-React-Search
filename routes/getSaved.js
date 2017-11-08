@@ -1,0 +1,1 @@
+Once articles were saved, the get route would be used to access them from the the post route.

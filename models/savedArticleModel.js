@@ -1,0 +1,1 @@
+This is where the mongoose schema would be created to interact with the database.  This is where the title date and and url of the article would be obtained.
